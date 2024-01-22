@@ -1,4 +1,4 @@
-Price,Bedrooms,Bathrooms,SqFt,City,Province,Year_Built,Type,Garage,Lot_Area
+price,bedrooms,bathrooms,sqft,city,province,year_built,type,garage,lot_area
 873630,5,2,1010,Montreal,BC,1960,Condo,1,7919
 377869,2,2,3591,Toronto,ON,1958,House,1,7304
 128030,4,1,3823,Montreal,ON,2002,House,0,4548
